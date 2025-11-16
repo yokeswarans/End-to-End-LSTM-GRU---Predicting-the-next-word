@@ -1,1 +1,1 @@
-"# End-to-End-LSTM-GRU---Predicting-the-next-word" 
+"# End-to-End-LSTM-GRU Inmplentaion with the project ->Predicting-the-next-word" 
