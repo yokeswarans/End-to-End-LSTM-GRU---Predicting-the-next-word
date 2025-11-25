@@ -112,13 +112,6 @@ To retrain the model, open and run `Training.ipynb` in Jupyter Notebook or Googl
 3. **Prediction**: The LSTM model outputs probability distribution over all words
 4. **Output**: The word with highest probability is returned as prediction
 
-## Future Improvements
-
-- [ ] Train on larger and more diverse datasets
-- [ ] Experiment with GRU layers
-- [ ] Add beam search for multiple word suggestions
-- [ ] Implement attention mechanism
-- [ ] Deploy on cloud platform
 
 ## License
 
@@ -130,4 +123,4 @@ This project is open source and available for educational purposes.
 
 ---
 
-*Built with TensorFlow and Streamlit*
+
